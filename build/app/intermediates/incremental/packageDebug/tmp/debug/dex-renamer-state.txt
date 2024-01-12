@@ -1,0 +1,4 @@
+#Sat Jan 13 01:46:13 TRT 2024
+base.0=/Users/cakir/StudioProjects/userInfo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
